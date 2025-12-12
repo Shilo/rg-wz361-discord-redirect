@@ -16,3 +16,7 @@ Tiny static page that immediately redirects visitors to the 🔫RG War Zone 361 
 ## Editing
 - Update the Discord invite URL and icon URL in `index.html` if they change.
 - Tweak the copy or styles directly in the same file; no tooling required.
+
+## Links
+- Discord invite: https://discord.com/invite/5cDcNaMcck
+- Game: https://rungoddess.topgamesinc.com/
